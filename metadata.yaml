@@ -1,0 +1,32 @@
+_repo: Fringilla--Some-Tales-In-Verse_22474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: ''
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22474'
+  lccn: '49056369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+tableOfContents: To my pen -- Lita of the Nile -- Kadisha; or, The first jealousy
+  -- Mount Arafa -- The well of St. John -- Pausias and Glycera; or, the first flower-painter
+  -- Buscombe; or, A Michaelmas goose -- To fame.
+title: 'Fringilla: Some Tales In Verse'
+url: http://www.gutenberg.org/ebooks/22474
