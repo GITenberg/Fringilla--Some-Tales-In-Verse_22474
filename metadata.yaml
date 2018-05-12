@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/439
     wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22474#Fringilla--Some-Tales-In-Verse
 gutenberg_issued: '2007-08-31'
 gutenberg_type: Text
 identifiers:
